@@ -1,0 +1,213 @@
+Eaglymc Changelogs:
+ ~~~~~~~~~~~~~~~~~~~~
+
+ EaglyMC public beta changelog:
+ 
+  - added the cherry wood type
+  - ores now drop their raw variants
+  - added copper ore
+  - added a placeholder structure for the pillager outpost
+  - added entity glow squid
+  - added entity bee
+  - new textures
+  - new placeholder gui (GuiRealms)
+  - item shield
+  - partial netherite gear
+  - deepslate and cobbled version
+
+ Known issues:
+
+  - the bee's texture is not rendered correctly
+  - there is some missing sounds for blocks like deepslate
+  - netherite gear is incomplete
+  - netherite gear's properties are the same as diamonds
+  - the shield's model is somehow a chest
+  - the shield does not block attacks yet
+  - the copper ore can be mined with a wooden pickaxe while it should be atleast a stone pickaxe
+  - copper ore doesn't generate naturally
+  - cherry wood does not burn with fire
+  - missing translations
+  - missing crafting recipe 
+
+ ~~~~~~
+
+ EaglyMC Eventual U1 changelog:
+
+  - updated to eagler u40
+  - fixed a bug where the glow ink sac conflicts with the raw gold item
+  - made some aspects more accurate to minecraft 1.20
+  - added missing translations
+  - cherry wood now burns
+  - added netherite boots
+  - completed netherite set
+  - netherite properties are now accurate
+  - added deepslate sound
+  - added missing entity living sound
+  - boat no longer breaks into pieces(colliding,falling)
+  - boat is now faster on ice,and some other tweaks on normal ground
+  - boat no longer goes to the direction where the player is looking
+ instead the boat is completely controlled by WASD keys.
+  - player no longer takes damage when falling on a boat
+  - COPPER ORE GENERATES NATURALLY!!!
+  - added missing crafting recipes
+  - added ancient debris
+  - made EPK smaller + compressed some audio
+  - copper ore can no longer can be mined with a wooden pickaxe
+  - added warden
+  - removed deep dark related features(too much lag)will prob fix one day tho
+  - rearranged workspace(very interesting)
+  - added basic Warden implementation
+  - added basic Sniffer implementation
+  - fixed bee's texture
+  - added SWIMMING!!!!
+  - added missing sound for entity bee
+  - made spawn egg colors accurate
+  - changed the client Brand from eagler to eaglymc (server owners should now be able to blacklist eaglymc users at joining   their servers with the origin blacklist plugin)
+  - made background panorama clearer
+
+ Known Issues:
+
+  - Glow squid doesn't glow anymore
+  - entities bee, warden, sniffer have no ai
+  - swimming animation is broken
+  - the Sniffer has a missing texture layer
+  - warden takes knockback
+  - shield model is still broken
+  - boat still uses the old model
+  - ancient debris doesn't generate for some goofy ahh reason
+  - the warden's heart animation is incorrect(but I kinda like it)
+  - using a boat on normal ice for some goofy aah reason is slow(works on packed ice tho)
+  - for the love of GOD the shield is not yet functional 
+
+ ~~~~~
+
+ EaglyMC Eventual U2 changelog:
+
+  - added the totem of undying
+  - updated to eaglercraftx u41
+  - updated spawn egg colors
+  - changed the early loading screen image(a bit)
+  - kinda added the offhand
+  - added the end crystal as an item
+  - the shield now actually works!
+  - changed warden's hitbox
+  - added mending
+  - removed enchanted mutton :(
+  - removed wrong netherite crafting recipes
+  - fixed shaders on linux desktop runtime (eaglercraft commit 5c8e0408e7)
+  - updated to u42
+  - added a new section for my experimental features
+  - added /choco command
+  - added my cool flappy bird clone
+  - updated to u43
+  - randomized splash screens with older/newer versions
+
+ known issues:
+
+  - piglin cannot be spawned(for some reason)
+  - fox cannot be spawned(for some reason)
+  - you can add mending to any items 
+  - enderman's animation is a mess
+
+ ~~~~~
+
+ EaglyMC Eventual U3 changelog:
+
+  - fixed issue with totem where it would activate without even holding it in hand
+  - added the elytra
+  - added magma block
+  - ancient debris now actually generates in the nether
+  - added a text box that renders a description when the mouse hovers over the buttons in "chocofush's experimental" features menu gui (kinda like tool tips)
+  - gave the chocofush item a costume tool tip
+  - enchanting table now emits a light level of 7 (from 1.18 apparently)
+  - fixed an issue with one of the splash screen not rendering correctly
+  - experimental EaglyBridge protocol
+  - added cool chicken(can be accessed from the chocofush's misc stuff gui)
+
+ Known Issues:
+
+  - elytra's gliding logic is a bit broken
+  - magma block for some reason doesn't pull down entities
+  - magma block's bubble pillar only renders if the player is stepping directly on it under water
+  - the player model texture is messed up on the edit profile menu after a while(idk how to fix it,in fact I don't even know where it came from)
+  
+ ~~~~~
+
+ EaglyMC Eventual U4 changelog:
+ 
+  - optimized minecraft's chunk rendering code(hopefully will boost fps idk)
+  - added patch notes
+  - added base 1.18+ generation,COMPLETELY BROKEN(can be accessed in the world types options)
+  - implemented a small part of EaglyBridge
+  - new minigame eaglytale
+  
+ Known issues:
+
+  - 1.18 gen crashes the game
+  
+ ~~~~~
+
+ EaglyMC Eventual U5 changelog:
+
+  - disabled "EaglyMC 1.20" world type(caused way too many issues and doesn't even work!)
+  - added Farlands generation!(can be accessed in the world type settings)
+  - added some cool easter eggs(which only a few people know)
+  - updated to u44 (wasm stuff)
+   
+ ~~~~~
+
+ EaglyMC Eventual U6 changelog:
+ 
+  - fixed the messed up player model in the edit profile menu(issue from eaglymc u3)
+  - changed the local storage directory(eaglymc will no longer interfere with normal eaglercraft saves)
+  - added warnings about game speed issues with minigames
+  - changed the title in Chocofush Experimental Features GUI
+  - added the old walking animation as a toggleable feature
+  - offhand can now actually be disabled
+  - added community requested capes
+  - new minigame "Cow Hunt"
+  - added popup notification manager
+  - updated to u45
+  - added missing golem and wither spawn eggs
+  - added the Iron Golem's cracking mechanic
+  - added Rana as a FNAW skin
+  - made netherite fireproof
+  - stripped logs and mechanic
+  - changed the names of some blocks to match 1.20.1
+  - updated to u46
+  - fixed enderman's broken model
+  - added Termina from Majora's Mask as a FNAW skin
+  - glow squid glows again
+  - fixed swimming animation
+  - fixed swimming mechanic(player must be at least 0.6 deep in water to swim)
+  - optimizations 
+  - new entity Salmon(with ai + spawning)
+  - greatly shortened CREDITS.txt
+  - added anti-skidding defense mechanism
+  - added new mob axolotl + ai
+  - added new mob phantom + ai & spawning
+  - updated warden's model
+  - new command /summondummy
+  - new mob Vindicator + ai
+  - removed EaglerXbungee download button
+  - removed elytra gliding
+  - updated to u47
+  - new block dirt path
+  - shovel flattening
+  - subtitles(accessible in sound settings)
+  - updated to u48
+  - fixed the huge amounts of underscores written on the offline download generated by the boot menu
+  - slightly reduced file size
+  - replaced gravel with dirt paths in villages
+  - updated to u49
+  
+ Known issues:
+ 
+  - you cannot bucket an axolotl
+  - axolotl ai is incomplete(but already pretty good)
+  - subtitles are inaccurate(but still pretty cool)
+  - stripped spruce log's item model is funny
+  - armor with old walking animation and swimming don't align
+  - warden's rendering is a bit weird when invisible
+  - warden's ear rendering hides other entities
+  - phantom ai might get stuck sometimes
