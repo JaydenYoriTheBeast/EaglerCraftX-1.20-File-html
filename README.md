@@ -10,8 +10,7 @@ https://www.instagram.com/jordan_savageboi/
 https://www.tiktok.com/@yt_gravyyzxd
 <img src="https://sp.yimg.com/ib/th/id/OIP.o8ERRprzeSxlK8pYkQ0kcgHaHa?pid=Api&amp;w=148&amp;h=148&amp;c=7&amp;dpr=2&amp;rs=1" alt="TikTok logo2"/><img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/269d4f02-39a3-4ec8-bed6-b39d1ab3a494" />
 
-https://www.twitch.tv/yt_gravyyzxd
-<img src="https://sp.yimg.com/ib/th/id/OIP.WDORjHSu10Er6jYgvj84-wHaHa?pid=Api&amp;w=148&amp;h=148&amp;c=7&amp;dpr=2&amp;rs=1" alt="twitch2"/><img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/1b9962bb-69b2-48a0-b026-615dd2c28207" />
+<img src="https://sp.yimg.com/ib/th/id/OIP.WDORjHSu10Er6jYgvj84-wHaHa?pid=Api&amp;w=148&amp;h=148&amp;c=7&amp;dpr=2&amp;rs=1" alt="twitch2"/><img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/1b9962bb-69b2-48a0-b026-615dd2c28207" />  https://www.twitch.tv/yt_gravyyzxd
 
 https://x.com/jaydenyori
 <img src="https://up.yimg.com/ib/th/id/OIP.3rKlYPP7FxfQnY0ouIZTfAHaHa?pid=Api&amp;rs=1&amp;c=1&amp;qlt=95&amp;w=121&amp;h=121" alt="Premium Vector | New Twitter logo X 2023 Twitter X logo vector download"/><img width="121" height="121" alt="image" src="https://github.com/user-attachments/assets/8a8d9269-e537-458e-a59c-b460bf717665" />
